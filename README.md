@@ -1,5 +1,5 @@
 # NLP_Beginner_new
-大模型理论与方法期末课设作业  
+大模型理论与方法期末课设作业（Large Models: Principles and Methods  Course Final Assignment）  
 改用了ICL的一些方法进行对比  
 探索了合适的模板格式，复现了 Channel、Calibrate、KATE，并进行了对比  
 本来想复现一些推理前加入一些SFT的方法，时间比较紧张，就没做  
