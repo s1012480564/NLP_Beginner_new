@@ -6,7 +6,7 @@ FDU大模型理论与方法期末课设作业（Large Models: Principles and Met
   
   
 2025.6.5补充：  
-稍微调整了一下之后用到了下学期的语言信息处理课的 PJ  
+稍微调整了一下之后用到了下学期的 语言信息处理课（Language Information Processing）的 PJ  
 一鱼两吃！  
   
   
